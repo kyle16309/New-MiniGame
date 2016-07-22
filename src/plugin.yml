@@ -1,0 +1,6 @@
+name: MiniGame
+main: org.vclip.minigame.MiniGame
+version: 0.01
+commands:
+   ag:
+      description: Default command for the minigame series
